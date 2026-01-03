@@ -4,5 +4,35 @@
   "artist": "Oshioshio ",
   "author": "Oshioshio",
   "cover": "https://i.imgur.com/yEr0DEW.jpeg",
-  "chapters": {}
+  "chapters": {
+    "12": {
+      "title": "A New Year's Shrine Visit",
+      "volume": "2",
+      "last_updated": "1767457011",
+      "groups": {
+        "": [
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/01.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/02.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/03.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/04.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/05.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/06.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/07.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/08.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/09.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/10.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/11.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/12.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/13.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/14.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/15.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/16.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/17.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/18.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/19.png.jpg",
+          "https://manga-epk.pages.dev/manga_assets/shikanokonokokoshitantan/ch12/20.png.jpg"
+        ]
+      }
+    }
+  }
 }
